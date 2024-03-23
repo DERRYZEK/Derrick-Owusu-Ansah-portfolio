@@ -1,28 +1,28 @@
 # Software Quality Assurance Engineer
 
 ## Technical Skills
-- Test Automation (Web/Mobile): Selenium WebDriver, Pytest library, Appium (iOS/Android), and Cross-browser testing.
+- **Test Automation (Web/Mobile):** Selenium WebDriver, Pytest library, Appium (iOS/Android), and Cross-browser testing.
 - Test planning, Test case design, Defect tracking.
--	CI/CD & Version Control: Jenkins, Git, GitHub, Bitbucket.
+-	**Version Control & CI/CD:** Jenkins, Git, GitHub, Bitbucket.
 - Deep knowledge of all stages of STLC and SDLC.
-- Programming Languages: Python, JavaScript
-- Test Management Tools: Jira, Azure DevOps.
-- API Testing: Postman & JavaScript, REST API testing.
+- **Programming Languages:** Python, JavaScript
+- **Test Management Tools:** Jira, Azure DevOps.
+- **API Testing:** Postman & JavaScript, REST API testing.
 - Good experience with web element locator strategies.
 - Execution of manual and automated testing (functional, regression, sanity, unit, smoke, and system testing).
 - Quality Assurance: Test planning, Test case design, Defect tracking
-- Database: MySQL.
-- Collaboration: Cross-functional teamwork, Agile/Scrum methodologies
-- Communication: Experience with MS Office for clear documentation and reporting.
-- Operating Systems: Windows, Linux
+- **Database:** MySQL.
+- **Collaboration:** Cross-functional teamwork, Agile/Scrum methodologies
+- **Communication:** Experience with MS Office for clear documentation and reporting.
+- **Operating Systems:** Windows, Linux
 
 
 
 
 ## Education
-- BSc., Computer Science | University of Energy and Natural Resources(2016-2020)								       		
-- AWS, Cloud Foundation	| AmaliTech gGmBH  (December 2023 - May 2024)
-- Software Testing | Rahul Shetty Academy 
+- **BSc., Computer Science** | University of Energy and Natural Resources(2016-2020)								       		
+- **AWS, Cloud Foundation**	| AmaliTech gGmBH  (December 2023 - May 2024)
+- **Software Testing** | Rahul Shetty Academy 
 
 ## Certificates
 ![AWS](/assets/img/awslogo.jpg)
