@@ -2,20 +2,19 @@
 
 ## Technical Skills
 - Test Automation (Web/Mobile): Selenium WebDriver, Pytest library, Appium (iOS/Android), and Cross-browser testing.
--	CI/CD & Version Control: Jenkins, Git, GitHub, Bitbucket, Docker.
-- Deep knowledge of all stages of STLC and SDLC.
-- Experience with QA processes and deliverables in Agile/Scrum.
-- Test Management Tools: Jira, Azure DevOps.
-- Database: MySQL.
 - Test planning, Test case design, Defect tracking.
+-	CI/CD & Version Control: Jenkins, Git, GitHub, Bitbucket.
+- Deep knowledge of all stages of STLC and SDLC.
+- Programming Languages: Python, JavaScript
+- Test Management Tools: Jira, Azure DevOps.
 - API Testing: Postman & JavaScript, REST API testing.
 - Good experience with web element locator strategies.
 - Execution of manual and automated testing (functional, regression, sanity, unit, smoke, and system testing).
-- Programming Languages: Python, JavaScript
 - Quality Assurance: Test planning, Test case design, Defect tracking
-- Collaboration: Cross-functional teamwork, Agile methodologies
-- Communication: Experience with MS Office for documentation clear documentation and reporting.
-- Operating Systems: Windows, MacOS, Linux
+- Database: MySQL.
+- Collaboration: Cross-functional teamwork, Agile/Scrum methodologies
+- Communication: Experience with MS Office for clear documentation and reporting.
+- Operating Systems: Windows, Linux
 
 
 
@@ -32,14 +31,21 @@
 [ViewCertificate](https://drive.google.com/file/d/1-_-aVof5At117a61Iqs4mvVvfDEO9scV/view?usp=drive_link)
 
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## Experience
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Pattern Craft Group | QA Engineer   Sunyani, Bono Region | September 2021 – Present
+- Collaborated with 5 members to create and sustain comprehensive testing systems for web applications, employing Python and Selenium on cross-browser. 
+- Regularly overseeing the entire automated testing process for each release, systematically investigating the reasons behind test failures, and actively collaborating with developers to swiftly identify and address issues.
+- Working closely with diverse teams to analyze project requirements and pinpoint test scenarios suitable for automation.
+- Creating automated tests for APIs utilizing Postman, ensuring the integrity of RESTful services in terms of data and performance.
+- Integrated automated tests into the CI/CD pipeline, ensuring continuous testing and early detection of issues.
+- Conducting testing for bi-weekly releases
+- Prepared test plans and test scripts describing the features and functions to be tested for the Notix application.
+- Engaging in sprint grooming sessions to prioritize and include current sprint user stories from the backlog.
+- Taking part in Scrum meetings and retrospectives to assess the overall health of the sprint.
+- Used Appium for mobile automation test, guaranteeing compatibility across various Android and iOS devices.
+- Programming Language: Python for (Selenium web automation, Appium mobile App testing) and JavaScript for (postman API testing).
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -54,16 +60,8 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+
 
 
