@@ -33,7 +33,7 @@
 
 ## Experience
 
-**Pattern Craft Group | QA Engineer   Sunyani, Bono Region | September 2021 – Present
+**Pattern Craft Group | QA Engineer   Sunyani, Bono Region | September 2021 – Present**
 - Collaborated with 5 members to create and sustain comprehensive testing systems for web applications, employing Python and Selenium on cross-browser. 
 - Regularly overseeing the entire automated testing process for each release, systematically investigating the reasons behind test failures, and actively collaborating with developers to swiftly identify and address issues.
 - Working closely with diverse teams to analyze project requirements and pinpoint test scenarios suitable for automation.
