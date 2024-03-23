@@ -1,5 +1,5 @@
 # Software Quality Assurance Engineer
-An experienced Software QA engineer with a focus on meticulous testing practices. Proficient in manual and automated testing, I employ robust Quality Assurance integration strategies to elevate software quality over the long term.
+An experienced Software Quality Assurance engineer with a focus on meticulous testing practices. Proficient in manual and automated testing, I employ robust Quality Assurance integration strategies to elevate software quality over the long term.
 
 ## Technical Skills
 - **Test Automation (Web/Mobile):** Selenium WebDriver, Pytest library, Appium (iOS/Android), and Cross-browser testing.
