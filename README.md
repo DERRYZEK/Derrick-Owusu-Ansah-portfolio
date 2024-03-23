@@ -9,7 +9,7 @@
 
 ## Certificates
 ![AWS](/assets/img/awslogo.jpg)[AWS Cloud Foundation Certificate](https://drive.google.com/file/d/1oezYElu21cCR-31pG-n9r5geuP-WnbLi/view)
-![Rahul Shetty Academy](/assets/img/rs_logo.png)
+![Rahul Shetty Academy](/assets/img/rs_logo.png),[AWS Cloud Foundation Certificate](https://drive.google.com/file/d/1oezYElu21cCR-31pG-n9r5geuP-WnbLi/view)
 
 
 ## Work Experience
