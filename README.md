@@ -61,7 +61,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 
-*[View Curriculum Viyae](https://drive.google.com/file/d/1-_-aVof5At117a61Iqs4mvVvfDEO9scV/view?usp=drive_link)*
+*[View Curriculum Vitae](https://drive.google.com/file/d/1-_-aVof5At117a61Iqs4mvVvfDEO9scV/view?usp=drive_link)*
 
 
 
