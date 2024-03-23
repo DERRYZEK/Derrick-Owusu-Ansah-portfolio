@@ -8,8 +8,7 @@
 - Software Testing | Rahul Shetty Academy 
 
 ## Certificates
-![AWS](/assets/img/awslogo.jpg)
-[AWS Cloud Foundation Certificate]([https://www.mdpi.com/1424-8220/22/8/3048](https://drive.google.com/file/d/1oezYElu21cCR-31pG-n9r5geuP-WnbLi/view?usp=drive_link))
+![AWS](/assets/img/awslogo.jpg)[AWS Cloud Foundation Certificate](https://drive.google.com/file/d/1oezYElu21cCR-31pG-n9r5geuP-WnbLi/view)
 ![Rahul Shetty Academy](/assets/img/rs_logo.png)
 
 
