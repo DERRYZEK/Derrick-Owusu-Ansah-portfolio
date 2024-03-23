@@ -9,7 +9,7 @@
 
 ## Certificates
 ![AWS](/assets/img/awslogo.jpg)
-![Rahul Shetty Academy](/assets/img/rs_logo.jpg)
+![Rahul Shetty Academy](/assets/img/rs_logo.png)
 
 
 ## Work Experience
