@@ -1,4 +1,5 @@
 # Software Quality Assurance Engineer
+**An experienced Software QA engineer with a focus on meticulous testing practices. Proficient in manual and automated testing, I employ robust Quality Assurance integration strategies to elevate software quality over the long term.**
 
 ## Technical Skills
 - **Test Automation (Web/Mobile):** Selenium WebDriver, Pytest library, Appium (iOS/Android), and Cross-browser testing.
@@ -40,10 +41,10 @@
 - Creating automated tests for APIs utilizing Postman, ensuring the integrity of RESTful services in terms of data and performance.
 - Integrated automated tests into the CI/CD pipeline, ensuring continuous testing and early detection of issues.
 - Conducting testing for bi-weekly releases
-- Prepared test plans and test scripts describing the features and functions to be tested for the Notix application.
+- Prepared test plans and scripts describing the features and functions to be tested for the Notix application.
 - Engaging in sprint grooming sessions to prioritize and include current sprint user stories from the backlog.
 - Taking part in Scrum meetings and retrospectives to assess the overall health of the sprint.
-- Used Appium for mobile automation test, guaranteeing compatibility across various Android and iOS devices.
+- Used Appium for mobile automation test, guaranteeing compatibility across Android and iOS devices.
 - Programming Language: Python for (Selenium web automation, Appium mobile App testing) and JavaScript for (postman API testing).
 
 
