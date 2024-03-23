@@ -1,6 +1,24 @@
 # Software Quality Assurance Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## Technical Skills
+-Test Automation (Web/Mobile): Selenium WebDriver, Pytest library, Appium (iOS/Android), and Cross-browser testing.
+-	CI/CD & Version Control: Jenkins, Git, GitHub, Bitbucket, Docker.
+-Deep knowledge of all stages of STLC and SDLC.
+-Experience with QA processes and deliverables in Agile/Scrum.
+-Test Management Tools: Jira, Azure DevOps.
+-Database: MySQL.
+-Test planning, Test case design, Defect tracking.
+-API Testing: Postman & JavaScript, REST API testing.
+-Good experience with web element locator strategies.
+-Execution of manual and automated testing (functional, regression, sanity, unit, smoke, and system testing).
+-Programming Languages: Python, JavaScript
+-Quality Assurance: Test planning, Test case design, Defect tracking
+-Collaboration: Cross-functional teamwork, Agile methodologies
+-Communication: Experience with MS Office for documentation clear documentation and reporting.
+-Operating Systems: Windows, MacOS, Linux
+
+
+
 
 ## Education
 - BSc., Computer Science | University of Energy and Natural Resources(2016-2020)								       		
