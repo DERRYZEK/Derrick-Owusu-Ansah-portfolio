@@ -21,7 +21,7 @@
 
 ## Education
 - **BSc., Computer Science**| University of Energy and Natural Resources(2016-2020)								       		
-- **AWS, Cloud Foundation** | AmaliTech gGmBH(December 2023 - May 2024)
+- **AWS, Cloud Foundation** | AmaliTech gGmBH(May 2024)
 - **Software Testing**      | Rahul Shetty Academy(2023) 
 
 ## Certificates
