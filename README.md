@@ -9,9 +9,9 @@
 
 ## Certificates
 ![AWS](/assets/img/awslogo.jpg)
-[Certificate](https://drive.google.com/file/d/1oezYElu21cCR-31pG-n9r5geuP-WnbLi/view)
+[View Certificate](https://drive.google.com/file/d/1oezYElu21cCR-31pG-n9r5geuP-WnbLi/view)
 ![Rahul Shetty Academy](/assets/img/rs_logo.png)
-[Certificate](https://drive.google.com/file/d/1-_-aVof5At117a61Iqs4mvVvfDEO9scV/view?usp=drive_link)
+[ViewCertificate](https://drive.google.com/file/d/1-_-aVof5At117a61Iqs4mvVvfDEO9scV/view?usp=drive_link)
 
 
 ## Work Experience
