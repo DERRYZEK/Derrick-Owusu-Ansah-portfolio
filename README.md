@@ -65,7 +65,8 @@ An experienced Software Quality Assurance engineer with a focus on meticulous te
 - Pytest HTML Reporting
 - Integration with Jenkins
 - Git and GitHub
-- WebElement location stratagies 
+- WebElement location stratagies
+- Data-driven test
 
 
 
