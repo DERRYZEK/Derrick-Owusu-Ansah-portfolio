@@ -49,7 +49,7 @@ An experienced Software Quality Assurance engineer with a focus on meticulous te
 
 
 ## Projects
-### Web Application test Automation with Selenium and Pytest framework
+### Web Application Automation Testing with Selenium and Pytest framework
 - [Selenium Pytest Framework](https://github.com/DERRYZEK/seleniumTest)
 - [Green Cart Web Application Testing](https://github.com/DERRYZEK/greenCart)
 - [Sauce Lab Web Application Testing](https://github.com/DERRYZEK/sauceLabTesting)
