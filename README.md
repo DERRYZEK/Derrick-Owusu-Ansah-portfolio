@@ -31,7 +31,7 @@ An experienced Software Quality Assurance engineer with a focus on meticulous te
 ![Rahul Shetty Academy](/assets/img/rs_logo.png)
 **[ViewCertificate](https://drive.google.com/file/d/1-_-aVof5At117a61Iqs4mvVvfDEO9scV/view?usp=drive_link)**
 
-
+<!--
 ## Experience
 
 **Pattern Craft Group | QA Engineer   Sunyani, Bono Region | September 2021 – Present**
@@ -46,6 +46,7 @@ An experienced Software Quality Assurance engineer with a focus on meticulous te
 - Taking part in Scrum meetings and retrospectives to assess the overall health of the sprint.
 - Used Appium for mobile automation test, guaranteeing compatibility across Android and iOS devices.
 - Programming Language: Python for (Selenium web automation, Appium mobile App testing) and JavaScript for (postman API testing).
+-->
 
 
 ## Projects
