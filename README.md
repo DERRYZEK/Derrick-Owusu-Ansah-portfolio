@@ -53,6 +53,11 @@ An experienced Software Quality Assurance engineer with a focus on meticulous te
 **Selenium**
 **Python**
 **Pytest**
+**Allure Report**
+**Page Object Model**
+**Pytest HTML Reporting**
+**Integration with Jenkins**
+**Git and GitHub**
 - [Selenium Pytest Framework](https://github.com/DERRYZEK/seleniumTest)
 - [Green Cart Web Application Testing](https://github.com/DERRYZEK/greenCart)
 - [Sauce Lab Web Application Testing](https://github.com/DERRYZEK/sauceLabTesting)
