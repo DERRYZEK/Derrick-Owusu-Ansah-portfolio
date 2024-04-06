@@ -69,7 +69,7 @@ An experienced Software Quality Assurance engineer with a focus on meticulous te
 
 
 
-**[View Curriculum Vitae](https://drive.google.com/file/d/1N1cm0Twz-6ZoK3d5Y1Y-JZOzTZMeyvpp/view?usp=drive_link)**
+**[View Curriculum Vitae](https://drive.google.com/file/d/1Xr3z9NfBVVZo1W5q8H-9y85asxgC20S6/view?usp=drive_link)**
 
 
 
