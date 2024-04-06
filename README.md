@@ -28,6 +28,7 @@ An experienced Software Quality Assurance engineer with a focus on meticulous te
 ## Certificates
 ![AWS](/assets/img/awslogo.jpg)
 **[ViewCertificate](https://drive.google.com/file/d/1-_-aVof5At117a61Iqs4mvVvfDEO9scV/view?usp=drive_link)**
+**[ViewCertificate](https://drive.google.com/file/d/1wnqo6iXlwCOa4UsdBd1EDxiHiJF9mAzS/view?usp=drive_link)**
 ![Rahul Shetty Academy](/assets/img/rs_logo.png)
 **[View Certificate](https://drive.google.com/file/d/1oezYElu21cCR-31pG-n9r5geuP-WnbLi/view)**
 
