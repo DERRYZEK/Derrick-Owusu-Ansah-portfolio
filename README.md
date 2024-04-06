@@ -31,10 +31,10 @@ An experienced Software Quality Assurance engineer with a focus on meticulous te
 ![Rahul Shetty Academy](/assets/img/rs_logo.png)
 **[ViewCertificate](https://drive.google.com/file/d/1-_-aVof5At117a61Iqs4mvVvfDEO9scV/view?usp=drive_link)**
 
-<!--
+
 ## Experience
 
-**Pattern Craft Group | QA Engineer   Sunyani, Bono Region | September 2021 – Present**
+**Rahul Shetty Academy and Pattern Craft Group
 - Collaborated with 5 members to create and sustain comprehensive testing systems for web applications, employing Python and Selenium on cross-browser. 
 - Regularly overseeing the entire automated testing process for each release, systematically investigating the reasons behind test failures, and actively collaborating with developers to swiftly identify and address issues.
 - Working closely with diverse teams to analyze project requirements and pinpoint test scenarios suitable for automation.
@@ -46,7 +46,6 @@ An experienced Software Quality Assurance engineer with a focus on meticulous te
 - Taking part in Scrum meetings and retrospectives to assess the overall health of the sprint.
 - Used Appium for mobile automation test, guaranteeing compatibility across Android and iOS devices.
 - Programming Language: Python for (Selenium web automation, Appium mobile App testing) and JavaScript for (postman API testing).
--->
 
 
 ## Projects
