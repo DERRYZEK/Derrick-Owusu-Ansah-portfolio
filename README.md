@@ -56,11 +56,13 @@ An experienced Software Quality Assurance engineer with a focus on meticulous te
 - [Selenium Pytest Framework](https://github.com/DERRYZEK/seleniumTest)
 - [Green Cart Web Application Testing](https://github.com/DERRYZEK/greenCart)
 - [Sauce Lab Web Application Testing](https://github.com/DERRYZEK/sauceLabTesting)
+- [Testing Android contact App by Adding new contact](https://github.com/DERRYZEK/appiumTest)
   
 ### **Tools** and **Skills** Utilized through the Projects 
 - Selenium
 - Python
 - Pytest
+- Appium
 - Allure Report
 - Page Object Model
 - Pytest HTML Reporting
